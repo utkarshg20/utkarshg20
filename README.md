@@ -1,8 +1,8 @@
-# Hi there, I'm Utkarsh 👋
+# Hi there, I'm Utkarsh 
 
 **ML & Data Engineer | CS @ Waterloo (’27)**
 
-I’m a computer science student at the University of Waterloo with a passion for building end‑to‑end systems at the intersection of **machine learning**, **AI** and **fintech**. I’ve worked across the stack — from data pipelines and real‑time dashboards to forecasting and ranking models — and I love turning data into insights and products.
+I’m a computer science student at the University of Waterloo with a passion for building end‑to‑end systems at the intersection of **machine learning**, **AI** and **fintech**. I’ve worked across the stack, from data pipelines and real‑time dashboards to forecasting and ranking models, and I love turning data into insights and products.
 
 ### 💼 Experience
 
@@ -47,8 +47,8 @@ Here are a few of my public projects. You can find more on my [GitHub profile](h
 
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshg20&show_icons=true&theme=default)
 
-### 💋 Connect
+### Connect
 
 - **LinkedIn:** [linkedin.com/in/utkarshg20](https://linkedin.com/in/utkarshg20)
 
-Thanks for stopping by! Feel free to reach out or explore my repositories. 🙌
+Thanks for stopping by! Feel free to reach out or explore my repositories. 
