@@ -43,10 +43,6 @@ Here are a few of my public projects. You can find more on my [GitHub profile](h
 - **[wealth‑harbour](https://github.com/utkarshg20/wealth-harbour)** – A portfolio optimization platform designed to empower individual investors to make informed decisions using historical data and financial models.
 - **[chainspark](https://github.com/utkarshg20/chainspark)** – A decentralized financial reports marketplace leveraging blockchain technology to provide secure and transparent financial insights.
 
-### 📈 GitHub Stats
-
-![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkarshg20&show_icons=true&theme=default)
-
 ### Connect
 
 - **LinkedIn:** [linkedin.com/in/utkarshg20](https://linkedin.com/in/utkarshg20)
